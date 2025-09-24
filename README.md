@@ -37,7 +37,7 @@
 
 ## 🎯 About the Project
 
-**Prompt Engineering for Candidate Analysis** is a comprehensive framework that transforms raw candidate video data into actionable recruitment insights using advanced prompt engineering techniques with ChatGPT. This system analyzes multiple dimensions of candidate performance including emotional intelligence, communication skills, engagement patterns, and professional suitability.
+**Prompt Engineering for Candidate Analysis** is a comprehensive framework that transforms raw candidates video data into actionable recruitment insights using advanced prompt engineering techniques with ChatGPT. This system analyzes multiple dimensions of candidate performance including emotional intelligence, communication skills, engagement patterns, and professional suitability.
 
 ### 🔍 Problem Statement
 
